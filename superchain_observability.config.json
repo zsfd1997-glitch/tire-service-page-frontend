@@ -1,0 +1,17 @@
+{
+  "scope": "global_only",
+  "triggers": [
+    "stage_change",
+    "task_end",
+    "interrupt"
+  ],
+  "default_trace_level": "light",
+  "deep_trace_enabled": true,
+  "north_star_threshold": 0.65,
+  "handoff_outputs": [
+    "会话交接.md",
+    "progress.md",
+    "输出/会话回放.md"
+  ],
+  "max_replay_events": 60
+}

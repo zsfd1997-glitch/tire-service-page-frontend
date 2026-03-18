@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.DS_Store
+.superchain/
+输出/
+task_plan.md
+findings.md
+progress.md
+会话交接.md
+*.log
