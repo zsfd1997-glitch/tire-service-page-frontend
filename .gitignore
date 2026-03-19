@@ -2,7 +2,12 @@ node_modules/
 dist/
 .DS_Store
 .superchain/
-输出/
+输出/*
+!输出/
+!输出/轮胎助手-前端PRD-v1-完整稿.md
+!输出/轮胎助手-前端PRD-v2-细化稿.md
+!输出/轮胎助手-前端PRD-v3-终版-极细颗粒.md
+!输出/轮胎助手-前端PRD-版本索引.md
 task_plan.md
 findings.md
 progress.md

@@ -488,7 +488,7 @@ export const HEALTH_LABELS: Record<HealthStatus, { label: string; color: string;
     label: "状态良好",
     color: "text-green-600",
     bgColor: "bg-green-50",
-    desc: "轮胎状态正常，无需立即处理",
+    desc: "轮胎状态正常",
   },
   ROTATE: {
     label: "建议换位",
